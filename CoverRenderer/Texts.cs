@@ -1,10 +1,8 @@
 using YukkuriMovieMaker.Generator;
 
-namespace CoverArt
-{
-    [AutoGenLocalizer]
-    partial class Texts
-    {
+namespace CoverArt;
 
-    }
+[AutoGenLocalizer]
+partial class Texts
+{
 }
